@@ -1,0 +1,27 @@
+main:
+  - title: "Drift-AR: Single-Step Visual Autoregressive Generation via Anti-Symmetric Drifting"
+    authors: "<strong>Z. Zou</strong>, X. Ma, M. Yao, J. Huang, L. J. Huang, F. Zhao"
+    conference: "European Conference on Computer Vision (ECCV), 2026."
+
+  - title: "AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse"
+    authors: "Z. Yu, <strong>Z. Zou</strong>, G. Shao, C. Zhang, S. Xu, J. Huang, F. Zhao, X. Cun, W. Zhang"
+    conference: "Proceedings of the 33rd ACM International Conference on Multimedia, 2025."
+    code: "https://github.com/aSleepyTree/AB-Cache"
+
+  - title: "Adaptive Dropout: Unleashing Dropout Across Layers for Generalizable Image Super-Resolution"
+    authors: "H. Xu, J. Huang, W. Yu, J. Tan, <strong>Z. Zou</strong>, F. Zhao"
+    conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025."
+
+  - title: "FEB-Cache: Frequency-Guided Exposure Bias Reduction for Enhancing Diffusion Transformer Caching"
+    authors: "<strong>Z. Zou</strong>, F. Zhao"
+    conference: "arXiv preprint arXiv:2503.07120, 2025."
+    code: "https://github.com/aSleepyTree/EB-Cache"
+
+  - title: "FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining"
+    authors: "<strong>Z. Zou</strong>, H. Yu, J. Huang, F. Zhao"
+    conference: "Proceedings of the 32nd ACM International Conference on Multimedia, 2024."
+    code: "https://github.com/aSleepyTree/FreqMamba"
+
+  - title: "Semantic Pre-Supplement for Exposure Correction"
+    authors: "<strong>Z. Zou</strong>, W. Yu, J. Huang, F. Zhao"
+    conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024."
