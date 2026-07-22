@@ -55,10 +55,11 @@ layout: homepage
 
 ## About Me 👋
 
-I am currently at ByteDance BandAI, working on AIGC, efficient video generation, and agent-oriented AI systems.
+I am currently at ByteDance BandAI, working on Agent.
 Before joining ByteDance full-time, I received my master's degree from the Department of Automation at the University of Science and Technology of China (USTC) in 2026, after completing my bachelor's degree at USTC in June 2023.
 
 My recent work has appeared in ECCV, CVPR, and ACM Multimedia.
+My previous work focused on AIGC, efficient video generation, and training/inference acceleration for video generation models.
 I am interested in building efficient, controllable AI systems that connect high-quality generation, multimodal reasoning, and practical tool use.
 
 ## Research Interests 🔭
@@ -91,7 +92,7 @@ I am interested in building efficient, controllable AI systems that connect high
 <ul class="experience-list">
   <li>
     <strong>[Jun. 2026 - Present]</strong> <span class="experience-title">ByteDance BandAI</span>
-    <span class="experience-note">Full-time position after graduating from USTC.</span>
+    <span class="experience-note">Working on Agent after graduating from USTC.</span>
   </li>
   <li>
     <strong>[Apr. 2025 - Jun. 2026]</strong> <span class="experience-title">ByteDance, Intern</span>
