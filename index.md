@@ -81,7 +81,7 @@ I am interested in building efficient, controllable AI systems that connect high
 
 ## News 🗞️
 
-- **[Jul. 2026]** Drift-AR was accepted by ECCV 2026.
+- **[Jul. 2026]** Drift-AR was accepted as an ECCV 2026 Spotlight.
 - **[Jun. 2026]** I graduated from USTC with a master's degree and joined ByteDance.
 - **[Jul. 2025]** AB-Cache was accepted by ACM Multimedia 2025.
 - **[Feb. 2025]** Adaptive Dropout was accepted by CVPR 2025.

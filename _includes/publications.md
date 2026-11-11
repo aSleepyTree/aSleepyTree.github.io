@@ -121,8 +121,10 @@
         <div class="pub-authors">{{ paper.authors }}</div>
         <div class="pub-venue">{{ paper.conference }}</div>
         <div class="pub-links">
+          {% if paper.link %}<a href="{{ paper.link }}" target="_blank" rel="noopener">Paper</a>{% endif %}
           {% if paper.pdf %}<a href="{{ paper.pdf }}" target="_blank" rel="noopener">PDF</a>{% endif %}
           {% if paper.code %}<a href="{{ paper.code }}" target="_blank" rel="noopener">Code</a>{% endif %}
+          {% if paper.conference_url %}<a href="{{ paper.conference_url }}" target="_blank" rel="noopener">Conference</a>{% endif %}
           {% if paper.page %}<a href="{{ paper.page }}" target="_blank" rel="noopener">Project Page</a>{% endif %}
           {% if paper.notes %}{{ paper.notes }}{% endif %}
         </div>
